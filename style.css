@@ -1,0 +1,85 @@
+header{
+    display: flex;
+    border: 2px solid #4bcffa;
+    border-radius: 15px;
+    margin: 10px;
+    padding-left: 50px;
+    position: fixed;
+    background-color: rgb(176, 235, 215);
+    /* padding-right: 20px; */
+
+}
+.hStyle{
+    /* color: #0fbcf9; */
+}
+.aStyle{
+    text-decoration: none;
+    margin: 20px;
+    /* color: #0492ff; */
+    color: black;
+}
+.listStyle{
+    padding-top: 30px;
+    padding-left: 90px;
+    font-size: 20px;
+    font-weight: 400;
+    
+    
+}
+.aStyle:hover{
+    color: red;
+    
+    
+}
+.h2Div{
+    color: blue;
+    font-size: 30px;
+}
+.definS{
+
+    display: flex;
+    padding-top: 200px;
+    padding-left: 50px;
+    /* border: 2px solid #4bcffa; */
+    margin: 10px;
+    border-radius: 15px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+}
+.secDiv{
+    padding-right: 150px;
+}
+img{
+    border-radius: 20px;
+    width: 40%;
+}
+.sec2{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border: 2px solid #4bcffa;
+}
+.sec2S{
+    text-align: center;
+    padding-top: 10px;
+    color: blue;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.ParS{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.listStl{
+    margin-top: 20px;
+    margin-left: 50px;
+}   
+.liStyle{
+    margin: 8px;
+    font-size: 20px;
+    font-weight: 500;
+}
